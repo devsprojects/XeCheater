@@ -1,0 +1,12 @@
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\bin\Release\XeCheater.Pluginloader.dll
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\bin\Release\XeCheater.Pluginloader.pdb
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\bin\Release\XeCheater.Interfaces.dll
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\bin\Release\XeCheater.Interfaces.pdb
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\obj\Release\XeCheater.Pluginloader.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\obj\Release\XeCheater.Pluginloader.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\obj\Release\XeCheater.Pluginloader.csproj.CopyComplete
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\obj\Release\XeCheater.Pluginloader.dll
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\obj\Release\XeCheater.Pluginloader.pdb
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\bin\Release\XeCheater.Shared.dll
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\bin\Release\JRPC.dll
+C:\Users\domin\source\repos\XeCheater\XeCheater.Pluginloader\bin\Release\XeCheater.Shared.pdb

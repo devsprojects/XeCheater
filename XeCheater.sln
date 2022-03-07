@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32210.238
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeCheater", "XeCheater\XeCheater.csproj", "{49DD442C-CEB9-4FE3-BC77-18B7C7EFB507}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeCheater.Pluginloader", "XeCheater.Pluginloader\XeCheater.Pluginloader.csproj", "{8A0DFB95-8B33-4B28-839C-127842819196}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeCheater.Interfaces", "XeCheater.Interfaces\XeCheater.Interfaces.csproj", "{E96348BE-4E59-4B39-BE77-6ABA79B38BFC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeCheater.Shared", "XeCheater.Shared\XeCheater.Shared.csproj", "{12B08C60-34B4-468F-B721-D8897D6BC281}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{992C9198-FAE4-430D-9582-F9A72607CB49}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XeCheater.Plugin.Screenshoter", "XeCheater.Plugin.Screenshoter\XeCheater.Plugin.Screenshoter.csproj", "{4D69E391-07DA-4545-B448-0666CA8F6019}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49DD442C-CEB9-4FE3-BC77-18B7C7EFB507}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49DD442C-CEB9-4FE3-BC77-18B7C7EFB507}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49DD442C-CEB9-4FE3-BC77-18B7C7EFB507}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49DD442C-CEB9-4FE3-BC77-18B7C7EFB507}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A0DFB95-8B33-4B28-839C-127842819196}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A0DFB95-8B33-4B28-839C-127842819196}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A0DFB95-8B33-4B28-839C-127842819196}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A0DFB95-8B33-4B28-839C-127842819196}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E96348BE-4E59-4B39-BE77-6ABA79B38BFC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E96348BE-4E59-4B39-BE77-6ABA79B38BFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E96348BE-4E59-4B39-BE77-6ABA79B38BFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E96348BE-4E59-4B39-BE77-6ABA79B38BFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12B08C60-34B4-468F-B721-D8897D6BC281}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12B08C60-34B4-468F-B721-D8897D6BC281}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12B08C60-34B4-468F-B721-D8897D6BC281}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12B08C60-34B4-468F-B721-D8897D6BC281}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D69E391-07DA-4545-B448-0666CA8F6019}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D69E391-07DA-4545-B448-0666CA8F6019}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D69E391-07DA-4545-B448-0666CA8F6019}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D69E391-07DA-4545-B448-0666CA8F6019}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4D69E391-07DA-4545-B448-0666CA8F6019} = {992C9198-FAE4-430D-9582-F9A72607CB49}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B9A58C43-07E4-46CD-8506-7322F7FAFEE3}
+	EndGlobalSection
+EndGlobal

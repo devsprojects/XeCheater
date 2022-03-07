@@ -1,0 +1,8 @@
+C:\Users\domin\source\repos\XeCheater\XeCheater.Shared\bin\Debug\XeCheater.Shared.dll
+C:\Users\domin\source\repos\XeCheater\XeCheater.Shared\bin\Debug\XeCheater.Shared.pdb
+C:\Users\domin\source\repos\XeCheater\XeCheater.Shared\obj\Debug\XeCheater.Shared.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\XeCheater\XeCheater.Shared\obj\Debug\XeCheater.Shared.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\XeCheater\XeCheater.Shared\obj\Debug\XeCheater.Shared.dll
+C:\Users\domin\source\repos\XeCheater\XeCheater.Shared\obj\Debug\XeCheater.Shared.pdb
+C:\Users\domin\source\repos\XeCheater\XeCheater.Shared\bin\Debug\JRPC.dll
+C:\Users\domin\source\repos\XeCheater\XeCheater.Shared\obj\Debug\XeCheater.Shared.csproj.CopyComplete

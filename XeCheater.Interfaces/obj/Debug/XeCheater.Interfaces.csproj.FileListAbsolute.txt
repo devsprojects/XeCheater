@@ -1,0 +1,6 @@
+C:\Users\domin\source\repos\XeCheater\XeCheater.Interfaces\bin\Debug\XeCheater.Interfaces.dll
+C:\Users\domin\source\repos\XeCheater\XeCheater.Interfaces\bin\Debug\XeCheater.Interfaces.pdb
+C:\Users\domin\source\repos\XeCheater\XeCheater.Interfaces\obj\Debug\XeCheater.Interfaces.csproj.AssemblyReference.cache
+C:\Users\domin\source\repos\XeCheater\XeCheater.Interfaces\obj\Debug\XeCheater.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\domin\source\repos\XeCheater\XeCheater.Interfaces\obj\Debug\XeCheater.Interfaces.dll
+C:\Users\domin\source\repos\XeCheater\XeCheater.Interfaces\obj\Debug\XeCheater.Interfaces.pdb
